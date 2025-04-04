@@ -1,3 +1,4 @@
+//This cuicuit rises signal (light) when any motion is detected by the PIR sensor
 int ledpin=13;
 int sensorpin=A0;
 void setup()
