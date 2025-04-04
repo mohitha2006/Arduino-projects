@@ -1,3 +1,4 @@
+//This Circuit used a RGB Light bulb to create different colours
 int red=11;
 int blue=10;
 int green=9;
